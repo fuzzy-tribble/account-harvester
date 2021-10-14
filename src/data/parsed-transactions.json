@@ -1,0 +1,188 @@
+{
+  "parsedTxs": [
+    {
+      "eventFragment": {
+        "name": "Borrow",
+        "anonymous": false,
+        "inputs": [
+          {
+            "name": "reserve",
+            "type": "address",
+            "indexed": true,
+            "components": null,
+            "arrayLength": null,
+            "arrayChildren": null,
+            "baseType": "address",
+            "_isParamType": true
+          },
+          {
+            "name": "user",
+            "type": "address",
+            "indexed": false,
+            "components": null,
+            "arrayLength": null,
+            "arrayChildren": null,
+            "baseType": "address",
+            "_isParamType": true
+          },
+          {
+            "name": "onBehalfOf",
+            "type": "address",
+            "indexed": true,
+            "components": null,
+            "arrayLength": null,
+            "arrayChildren": null,
+            "baseType": "address",
+            "_isParamType": true
+          },
+          {
+            "name": "amount",
+            "type": "uint256",
+            "indexed": false,
+            "components": null,
+            "arrayLength": null,
+            "arrayChildren": null,
+            "baseType": "uint256",
+            "_isParamType": true
+          },
+          {
+            "name": "borrowRateMode",
+            "type": "uint256",
+            "indexed": false,
+            "components": null,
+            "arrayLength": null,
+            "arrayChildren": null,
+            "baseType": "uint256",
+            "_isParamType": true
+          },
+          {
+            "name": "borrowRate",
+            "type": "uint256",
+            "indexed": false,
+            "components": null,
+            "arrayLength": null,
+            "arrayChildren": null,
+            "baseType": "uint256",
+            "_isParamType": true
+          },
+          {
+            "name": "referral",
+            "type": "uint16",
+            "indexed": true,
+            "components": null,
+            "arrayLength": null,
+            "arrayChildren": null,
+            "baseType": "uint16",
+            "_isParamType": true
+          }
+        ],
+        "type": "event",
+        "_isFragment": true
+      },
+      "name": "Borrow",
+      "signature": "Borrow(address,address,address,uint256,uint256,uint256,uint16)",
+      "topic": "0xc6a898309e823ee50bac64e45ca8adba6690e99e7841c45d754e2a38e9019d9b",
+      "args": [
+        "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+        "0xf9df2f205533Eb5BD8a20BEE80614539278f8f7d",
+        "0xf9df2f205533Eb5BD8a20BEE80614539278f8f7d",
+        { "type": "BigNumber", "hex": "0x17d78400" },
+        { "type": "BigNumber", "hex": "0x02" },
+        { "type": "BigNumber", "hex": "0x3fda04b62ab729f284c892" },
+        0
+      ]
+    },
+    {
+      "eventFragment": {
+        "name": "Borrow",
+        "anonymous": false,
+        "inputs": [
+          {
+            "name": "reserve",
+            "type": "address",
+            "indexed": true,
+            "components": null,
+            "arrayLength": null,
+            "arrayChildren": null,
+            "baseType": "address",
+            "_isParamType": true
+          },
+          {
+            "name": "user",
+            "type": "address",
+            "indexed": false,
+            "components": null,
+            "arrayLength": null,
+            "arrayChildren": null,
+            "baseType": "address",
+            "_isParamType": true
+          },
+          {
+            "name": "onBehalfOf",
+            "type": "address",
+            "indexed": true,
+            "components": null,
+            "arrayLength": null,
+            "arrayChildren": null,
+            "baseType": "address",
+            "_isParamType": true
+          },
+          {
+            "name": "amount",
+            "type": "uint256",
+            "indexed": false,
+            "components": null,
+            "arrayLength": null,
+            "arrayChildren": null,
+            "baseType": "uint256",
+            "_isParamType": true
+          },
+          {
+            "name": "borrowRateMode",
+            "type": "uint256",
+            "indexed": false,
+            "components": null,
+            "arrayLength": null,
+            "arrayChildren": null,
+            "baseType": "uint256",
+            "_isParamType": true
+          },
+          {
+            "name": "borrowRate",
+            "type": "uint256",
+            "indexed": false,
+            "components": null,
+            "arrayLength": null,
+            "arrayChildren": null,
+            "baseType": "uint256",
+            "_isParamType": true
+          },
+          {
+            "name": "referral",
+            "type": "uint16",
+            "indexed": true,
+            "components": null,
+            "arrayLength": null,
+            "arrayChildren": null,
+            "baseType": "uint16",
+            "_isParamType": true
+          }
+        ],
+        "type": "event",
+        "_isFragment": true
+      },
+      "name": "Borrow",
+      "signature": "Borrow(address,address,address,uint256,uint256,uint256,uint16)",
+      "topic": "0xc6a898309e823ee50bac64e45ca8adba6690e99e7841c45d754e2a38e9019d9b",
+      "args": [
+        "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+        "0xa25A9b7c73158B3B34215925796Ce6Aa8100C13a",
+        "0xa25A9b7c73158B3B34215925796Ce6Aa8100C13a",
+        { "type": "BigNumber", "hex": "0x2f08236400" },
+        { "type": "BigNumber", "hex": "0x02" },
+        { "type": "BigNumber", "hex": "0x4010b9319732b807ecd6ae" },
+        0
+      ]
+    }
+  ]
+}
